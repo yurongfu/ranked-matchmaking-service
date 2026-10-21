@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Ranked Matchmaking Service
 
 A small backend prototype built with Go and Redis that simulates
